@@ -1,3 +1,21 @@
+Problem Summary
+Context:
+
+Term deposits are a critical revenue stream for banks, involving cash investments held for a predetermined period at an agreed-upon interest rate. To promote term deposits, banks utilize various marketing strategies, including email marketing, advertisements, telephonic marketing, and digital marketing. Despite the rise of digital channels, telephonic marketing remains highly effective for engaging customers, although it requires significant investment in call centers.
+
+Challenge:
+
+Given the high cost of telephonic marketing campaigns, it is crucial for banks to pre-identify potential customers who are likely to subscribe to a term deposit. This targeted approach can enhance the efficiency of outreach efforts, ensuring that resources are allocated to clients with a higher probability of conversion.
+
+Objective:
+
+The objective is to develop a predictive model to identify clients who are likely to subscribe to a term deposit based on data from previous direct marketing campaigns conducted by a Portuguese banking institution. The model aims to predict the binary outcome (yes or no) indicating whether a client will subscribe to a term deposit.
+
+
+
+
+
+
 
 Detailed Column Descriptions: 
 age: This column represents the age of the bank client. It's a numeric variable indicating the age in years.
